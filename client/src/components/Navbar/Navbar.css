@@ -1,0 +1,16 @@
+.navbar, .navbar-brand, .navbar-expand-lg, .collapse {
+    background-color: #AC9FBB!important;
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.nav-link, .navbar-brand {
+    padding-bottom: 10px;
+    color: #59656F;
+}

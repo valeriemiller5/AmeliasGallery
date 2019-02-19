@@ -1,0 +1,20 @@
+.carousel-item {
+    height: 500px;
+    width: 800px;
+    margin-left: 250px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.carousel-inner {
+    background-color: #DDBDD5;
+    margin-top: 78px;
+}
+
+.carousel-control-prev {
+    margin-left: 200px;
+}
+
+.carousel-control-next {
+    margin-right: 250px;
+}

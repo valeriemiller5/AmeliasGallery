@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "piece1",
+        "image": "arale.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "piece2",
+        "image": "buu.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "piece3",
+        "image": "goku.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "piece4",
+        "image": "whis.jpg",
+        "clicked": false
+    }
+]
