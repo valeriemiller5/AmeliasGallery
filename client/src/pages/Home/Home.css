@@ -1,9 +1,14 @@
 body {
-    background-color: #F7EBEC;
+    background-color:  #DDBDD5;
 }
 
 .container {
     margin-top: 20px;
-    /* margin-left: 150px;
-    margin-right: 250px; */
+}
+
+.content {
+    background-color: #F7EBEC;
+    margin-top: 95px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
