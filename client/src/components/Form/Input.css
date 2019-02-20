@@ -1,0 +1,14 @@
+#label {
+    height: 10px;
+    padding-top: 10px;
+}
+
+.submit {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    margin-left: 45%;
+}
+
+#inputAddress2 {
+    height: 250px;
+}

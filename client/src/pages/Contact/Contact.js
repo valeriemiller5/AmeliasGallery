@@ -10,13 +10,15 @@ class Contact extends Component {
         return (
             <div>
                 <Navbar />
-                <Container>
-                    <Row>
-                        <Col size="md-12">
-                            <Input />
-                        </Col>
-                    </Row>
-                </Container>
+                <div className="content">
+                    <Container>
+                        <Row>
+                            <Col size="md-12">
+                                <Input />
+                            </Col>
+                        </Row>
+                    </Container>
+                </div>
                 <Footer />
             </div>
         )
