@@ -28,8 +28,8 @@ class Home extends Component {
         return (
             <div>
                 <Navbar />
+                <Carousel />
                 <div className="content">
-                    <Carousel />
                     <Container className="description">
                         <Row>
                             <Col size="md-12">

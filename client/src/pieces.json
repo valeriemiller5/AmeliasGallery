@@ -2,25 +2,25 @@
     {
         "id": 1,
         "name": "piece1",
-        "image": "arale.jpg",
+        "image": "flower5.jpg",
         "clicked": false
     },
     {
         "id": 2,
         "name": "piece2",
-        "image": "buu.jpg",
+        "image": "flower6.png",
         "clicked": false
     },
     {
         "id": 3,
         "name": "piece3",
-        "image": "goku.png",
+        "image": "flower7.jpeg",
         "clicked": false
     },
     {
         "id": 4,
         "name": "piece4",
-        "image": "whis.jpg",
+        "image": "flower8.jpg",
         "clicked": false
     }
 ]
